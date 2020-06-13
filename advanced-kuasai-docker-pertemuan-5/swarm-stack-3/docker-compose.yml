@@ -3,7 +3,7 @@ version: '3.1'
 services:
 
   drupal:
-    image: cilsy/custom-drupal:latest
+    image: cilsy/custom-drupal:custom
 
   postgres:
     image: postgres:9.6
